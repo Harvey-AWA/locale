@@ -1,0 +1,18 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.shadow-container {
+  border-style: solid;
+  box-shadow: 2px 3px 8px lightgrey;
+  border: none;
+}
+
+.flex-center {
+  display: flex;
+  align-content: center;
+  justify-content: center;
+}
